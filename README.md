@@ -29,4 +29,4 @@
 <img width="950" alt="n3" src="https://user-images.githubusercontent.com/114959233/210709001-ef4d93b0-7e88-4c99-b4a4-4c620ba11c01.PNG">
 
 ## Live URL link
-https://note-taker-dom231.herokuapp.com/notes
+https://note-taker-dom231.herokuapp.com/
